@@ -1,4 +1,4 @@
-# CW 2
+# CW
 
 ## Environment
 
@@ -14,7 +14,7 @@ glm - 1.0.1
 
 ## Link
 
-https://youtu.be/eXJ1H8SlKRU
+[https://youtu.be/eXJ1H8SlKRU](https://youtu.be/1V1IC8WciJc)
 
 ## Codes
 
